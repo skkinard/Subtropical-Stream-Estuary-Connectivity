@@ -1,0 +1,23 @@
+site_name,site_code,site_lat,site_lon,STAID,trace_lat,trace_lon,trace_river_mile,over_under,position_between
+East Mustang Creek,EM,29.071,-96.417,8164504,29.274,-96.307,58,over,0.1
+East Mustang Creek,EM,29.071,-96.417,8164504,29.055,-96.449,36,under,0.1
+West Mustang Creek,WM,29.071,-96.467,8164503,29.159,-96.443,46,over,0.2
+West Mustang Creek,WM,29.071,-96.467,8164503,29.055,-96.449,36,under,0.2
+Garcitas Creek,GC,28.892,-96.815,8164600,29.048,-97.091,47,over,0.2
+Garcitas Creek,GC,28.892,-96.815,8164600,28.831,-96.744,14,under,0.2
+Placedo Creek,PL,28.724,-96.769,8164800,28.726,-96.772,10,over,1
+Placedo Creek,PL,28.724,-96.769,8164800,28.726,-96.772,10,under,1
+Mission River,MR,28.292,-97.277,8189500,28.313,-97.319,25,over,0.8
+Mission River,MR,28.292,-97.277,8189500,28.204,-97.27,12,under,0.8
+Aransas River,AR,28.284,-97.62,8189700,28.281,-97.672,62,over,0.8
+Aransas River,AR,28.284,-97.62,8189700,28.164,-97.541,42,under,0.8
+Perdido Creek,PD,28.75,-97.316,8177300,28.796,-97.42,65,over,0.6
+Perdido Creek,PD,28.75,-97.316,8177300,28.731,-97.169,44,under,0.6
+Lower Nueces River,LN,27.89,-97.629,8211500,28.038,-97.801,41,over,0.3
+Lower Nueces River,LN,27.89,-97.629,8211500,27.84,-97.489,0,under,0.3
+Upper Nueces River,UN,27.876,-97.626,8211500,28.038,-97.801,41,over,0.4
+Upper Nueces River,UN,27.876,-97.626,8211500,27.84,-97.489,0,under,0.4
+Tranquitas Creek,TR,27.517,-97.838,8212300,27.651,-98.067,29,over,0.1
+Tranquitas Creek,TR,27.517,-97.838,8212300,27.519,-97.805,7,under,0.1
+San Fernando Creek,SF,27.773,-98.035,8211900,27.775,-98.04,36,over,1
+San Fernando Creek,SF,27.773,-98.035,8211900,27.775,-98.04,36,under,1

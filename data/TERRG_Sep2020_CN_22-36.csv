@@ -1,0 +1,479 @@
+UID,cycle,site,month,day,year,type,species,length,box_si,cell_si,notes,amp_28,amp_44,nitrogen,carbon,nitrogen_percent,carbon_percent,tray,order,family,count,box,cell
+PDC.D,3,PDC,9,3,20,Aquatic Source,Diatoms,NA,NA,NA,NA,2563,6821,5.01,-16.12,0.68,11.1,TERRG-21-34,Periphyton,NA,NA,5,A10
+AR.D,3,AR,9,7,20,Aquatic Source,Diatoms,NA,NA,NA,NA,3904,7161,11.82,-25.28,1.02,11.35,TERRG-21-34,Periphyton,NA,NA,5,A11
+EMC.D,3,EMC,9,2,20,Aquatic Source,Diatoms,NA,NA,NA,NA,1745,2601,7.68,-22.68,0.47,4.26,TERRG-21-34,Periphyton,NA,NA,5,A12
+SFC.D,3,SFC,9,8,20,Aquatic Source,Diatoms,NA,NA,NA,NA,2571,4106,12.63,-22.29,0.68,6.69,TERRG-21-34,Periphyton,NA,NA,5,A13
+MR.D,3,MR,9,7,20,Aquatic Source,Diatoms,NA,NA,NA,NA,3613,6238,7.32,-29.32,0.92,9.7,TERRG-21-34,Periphyton,NA,NA,5,A14
+PDC.FA,3,PDC,9,3,20,Aquatic Source,Filamentous Algae,NA,NA,NA,NA,1209,2696,3.35,-15.21,0.93,12.95,TERRG-21-34,Filamentous Algae,NA,NA,5,A15
+GC.FA,3,GC,9,4,20,Aquatic Source,Filamentous Algae,NA,NA,NA,NA,547,1065,9.87,-26.05,0.42,5.12,TERRG-21-34,Filamentous Algae,NA,NA,5,A16
+EMC.FA,3,EMC,9,2,20,Aquatic Source,Filamentous Algae,NA,NA,NA,NA,917,2983,8.3,-18.82,0.68,13.83,TERRG-21-34,Filamentous Algae,NA,NA,5,A17
+WMC.FA,3,WMC,9,2,20,Aquatic Source,Filamentous Algae,NA,NA,NA,NA,497,1054,7.88,-27.36,0.37,4.92,TERRG-21-34,Filamentous Algae,NA,NA,5,A18
+TRC.FA,3,TRC,9,8,20,Aquatic Source,Filamentous Algae,NA,NA,NA,NA,557,2153,11.47,-16.04,0.41,7.92,TERRG-21-34,Filamentous Algae,NA,NA,5,A19
+GC.AM.Ceratophyllum_spp,3,GC,9,4,20,Aquatic Source,AV,NA,NA,NA,Ceratophyllum,2717,5530,8.73,-30.35,2.59,31.68,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,A20
+GC.AM.Lemnaceae,3,GC,9,4,20,Aquatic Source,AV,NA,NA,NA,Lemnaceae,2453,4458,10.25,-31.13,2.4,26.32,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,B1
+MR.AM.Lemnaceae,3,MR,9,7,20,Aquatic Source,AV,NA,NA,NA,Lemnaceae,2388,5999,6.01,-28.01,2.15,33.85,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,B2
+PDC.AM.Callitriche_heterophylla,3,PDC,9,3,20,Aquatic Source,AV,NA,NA,NA,Callitriche heterophylla,2182,8091,7.09,-25.43,1.94,35.07,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,B3
+AR.AM.Lemnaceae,3,AR,9,7,20,Aquatic Source,AV,NA,NA,NA,Lemnaceae,3143,6384,13.86,-29.59,2.98,36.4,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,B4
+EMC.AM.Potamogeton_spp,3,EMC,9,2,20,Aquatic Source,AV,NA,NA,NA,Potamogeton,3752,6575,14.1,-28.54,3.33,35.24,TERRG-21-34,Aquatic Macrophyte,NA,NA,5,B5
+MR.CPOM,3,MR,9,7,20,Detritus,CPOM,NA,NA,NA,NA,3588,14144,4.21,-30.07,1.62,39.8,TERRG-21-34,CPOM,NA,NA,5,A1
+AR.CPOM,3,AR,9,7,20,Detritus,CPOM,NA,NA,NA,NA,1222,15850,10.17,-30.59,0.62,44.42,TERRG-21-34,CPOM,NA,NA,5,A2
+EMC.CPOM,3,EMC,9,2,20,Detritus,CPOM,NA,NA,NA,NA,2706,14294,7.72,-30.17,1.29,39.91,TERRG-21-34,CPOM,NA,NA,5,A3
+WMC.CPOM,3,WMC,9,2,20,Detritus,CPOM,NA,NA,NA,NA,2045,20275,6.21,-28.57,0.94,44.56,TERRG-21-34,CPOM,NA,NA,5,A4
+GC.CPOM,3,GC,9,4,20,Detritus,CPOM,NA,NA,NA,NA,1902,15022,6.05,-27.66,0.87,42.92,TERRG-21-34,CPOM,NA,NA,5,A5
+PLC.CPOM,3,PLC,9,3,20,Detritus,CPOM,NA,NA,NA,NA,1686,20031,3.14,-27.63,0.76,42.89,TERRG-21-34,CPOM,NA,NA,5,A6
+SFC.CPOM,3,SFC,9,8,20,Detritus,CPOM,NA,NA,NA,NA,1565,16059,10.86,-28.76,0.74,45.05,TERRG-21-34,CPOM,NA,NA,5,A7
+PDC.CPOM,3,PDC,9,3,20,Detritus,CPOM,NA,NA,NA,NA,1785,12436,1.16,-28.89,0.8,33.6,TERRG-21-34,CPOM,NA,NA,5,A8
+TRC.CPOM,3,TRC,9,8,20,Detritus,CPOM,NA,NA,NA,NA,3641,15595,5.36,-28.91,1.67,43.43,TERRG-21-34,CPOM,NA,NA,5,A9
+WMC.fish.Micropterus_salmoides.127.1,3,WMC,9,8,20,fish,M.salmoides,127,3,A1,NA,3800,3255,15.21,-23.9,13.8,44.35,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_macrochirus.112.1,3,WMC,9,8,20,fish,L.macrochirus,112,3,A2,NA,3892,3272,15.27,-28.48,13.89,44.12,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_macrochirus.89.2,3,WMC,9,8,20,fish,L.macrochirus,89,3,A3,NA,4228,3528,14.42,-26.57,13.49,43.4,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_macrochirus.52.3,3,WMC,9,8,20,fish,L.macrochirus,52,3,A4,NA,4681,5032,13.54,-25.93,13.75,44.2,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_gulosus.76.1,3,WMC,9,8,20,fish,L.gulosus,76,3,A5,NA,4259,3579,14.46,-26.57,13.79,43.62,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_gulosus.58.2,3,WMC,9,8,20,fish,L.gulosus,58,3,A6,NA,4615,3901,14.26,-29.36,13.55,43.57,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_megalotis.91.1,3,WMC,9,8,20,fish,L.megalotis,91,3,A7,NA,4153,3534,12.88,-25.39,13.77,43.74,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_megalotis.70.2,3,WMC,9,8,20,fish,L.megalotis,70,3,A8,NA,3995,3444,14.08,-26.16,13.67,44.27,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_megalotis.53.3,3,WMC,9,8,20,fish,L.megalotis,53,3,A9,NA,3926,3349,11.76,-28.19,13.44,44.33,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_megalotis.47.4,3,WMC,9,8,20,fish,L.megalotis,47,3,A10,NA,3939,3307,13.63,-27.68,13.67,44.44,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.48.1,3,WMC,9,8,20,fish,L.cyanellus,48,3,A11,NA,4229,3559,13.62,-26.14,13.82,44.95,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.85.2,3,WMC,9,8,20,fish,L.cyanellus,85,3,A12,NA,4529,3762,13.52,-25.92,14.06,44.84,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.38.3,3,WMC,9,8,20,fish,L.cyanellus,38,3,A13,NA,3738,3197,12.64,-25.34,13.52,43.94,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.34.4,3,WMC,9,8,20,fish,L.cyanellus,34,3,A14,NA,3841,3250,12.55,-26.87,13.56,44.44,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.32.5,3,WMC,9,8,20,fish,L.cyanellus,32,3,A15,NA,4431,3776,12.76,-24.17,13.61,44,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Lepomis_cyanellus.36.6,3,WMC,9,8,20,fish,L.cyanellus,36,3,A16,NA,3550,3023,12.59,-25.3,13.45,43.54,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Aphredoderus_sayanus.80.1,3,WMC,9,8,20,fish,A.sayanus,80,3,A17,Vouchered,4279,3695,14.74,-26.68,13.1,42.02,TERRG-21-22,NA,NA,NA,NA,NA
+WMC.fish.Gambusia_affinis.40.1,3,WMC,9,8,20,fish,G.affinis,40,3,A18,NA,4485,3671,12.24,-24.97,13.7,43.27,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_microlophus.196.1,3,MR,9,10,20,fish,L.microlophus,196,3,A19,NA,4097,3456,11.92,-30.43,13.66,43.58,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_microlophus.144.2,3,MR,9,10,20,fish,L.microlophus,144,3,A20,NA,4285,3543,12.73,-29.94,13.73,44.68,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_megalotis.122.1,3,MR,9,10,20,fish,L.megalotis,122,3,B1,NA,4336,3650,12.47,-31.28,13.66,43.89,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_megalotis.102.2,3,MR,9,10,20,fish,L.megalotis,102,3,B2,NA,4268,3613,11.46,-29.83,13.55,43.97,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_megalotis.91.3,3,MR,9,10,20,fish,L.megalotis,91,3,B3,NA,3707,3047,10.8,-29.38,13.7,44.52,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Micropterus_salmoides.116.1,3,MR,9,10,20,fish,M.salmoides,116,3,B4,NA,3809,4034,12.61,-27.79,13.78,44.1,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_macrochirus.130.1,3,MR,9,10,20,fish,L.macrochirus,130,3,B5,NA,3966,4135,11.12,-27.99,13.61,43.14,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_macrochirus.135.2,3,MR,9,10,20,fish,L.macrochirus,135,3,B6,NA,4351,3620,12.45,-30.53,13.88,43.85,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_macrochirus.109.3,3,MR,9,10,20,fish,L.macrochirus,109,3,B7,NA,4635,4882,12.37,-32.46,13.83,44.25,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_cyanellus.103.1,3,MR,9,10,20,fish,L.cyanellus,103,3,B8,NA,3791,3206,13.32,-29.96,13.63,43.52,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_cyanellus.50.2,3,MR,9,10,20,fish,L.cyanellus,50,3,B9,NA,3837,3313,9.87,-25.5,13.28,43.21,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Lepomis_cyanellus.48.3,3,MR,9,10,20,fish,L.cyanellus,48,3,B10,NA,3222,2786,9.73,-25.29,11.55,38.26,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Herichthys_cyanoguttatus.54.1,3,MR,9,10,20,fish,H.cyanoguttatus,54,3,B11,NA,4503,3790,11.08,-28.64,13.38,43.54,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Herichthys_cyanoguttatus.24.2,3,MR,9,10,20,fish,H.cyanoguttatus,24,3,B12,NA,3701,3322,10.27,-28.21,12.22,41.56,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Herichthys_cyanoguttatus.23.3,3,MR,9,10,20,fish,H.cyanoguttatus,23,3,B13,NA,3394,2912,10.98,-29.17,12.24,40.6,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.56.1,3,MR,9,10,20,fish,P.latipinna,56,3,B14,NA,4704,3943,9.77,-25.7,13.8,43.75,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.45.2,3,MR,9,10,20,fish,P.latipinna,45,3,B15,NA,3834,4046,9.01,-25.05,13.66,44.61,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.48.3,3,MR,9,10,20,fish,P.latipinna,48,3,B16,NA,4691,5003,9.19,-24.29,13.45,43.94,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.46.4,3,MR,9,10,20,fish,P.latipinna,46,3,B17,NA,3771,3182,8.86,-24.52,13.79,44.59,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.42.5,3,MR,9,10,20,fish,P.latipinna,42,3,B18,NA,4543,3764,9.59,-24.46,14.13,45.1,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.42.6,3,MR,9,10,20,fish,P.latipinna,42,3,B19,NA,3770,3127,9.26,-24.09,14.2,45.65,TERRG-21-22,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.35.7,3,MR,9,10,20,fish,P.latipinna,35,3,B20,Rerun TERRG-21-36,3606,3977,8.21,-24.08,12.82,41.75,TERRG-21-36,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.34.8,3,MR,9,10,20,fish,P.latipinna,34,3,C1,Rerun TERRG-21-36,3950,4553,9.15,-24.09,12.83,43.57,TERRG-21-36,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.32.9,3,MR,9,10,20,fish,P.latipinna,32,3,C2,Rerun TERRG-21-36,3408,3794,8.34,-23.85,13.38,44.21,TERRG-21-36,NA,NA,NA,NA,NA
+MR.fish.Poecilia_latipinna.34.10,3,MR,9,10,20,fish,P.latipinna,34,3,C3,Rerun TERRG-21-36,3719,3328,7.65,-24.41,12.7,41.19,TERRG-21-36,NA,NA,NA,NA,NA
+MR.fish.Gambusia_affinis.31.1,3,MR,9,10,20,fish,G.affinis,31,3,C4,Rerun TERRG-21-36,3289,3078,11.29,-28.34,12.94,43.71,TERRG-21-36,NA,NA,NA,NA,NA
+MR.fish.Gambusia_affinis.31.2,3,MR,9,10,20,fish,G.affinis,31,3,C5,Rerun TERRG-21-36,4202,3988,11.4,-27.72,12.86,44.57,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.181.1,3,TRC,9,11,20,fish,H.cyanoguttatus,181,3,C6,Rerun TERRG-21-36,4000,3590,16.79,-18.52,14.01,45.29,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.154.2,3,TRC,9,11,20,fish,H.cyanoguttatus,154,3,C7,Rerun TERRG-21-36,3676,3491,16.41,-18.09,13.51,46.28,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.131.3,3,TRC,9,11,20,fish,H.cyanoguttatus,131,3,C8,Rerun TERRG-21-36,3977,3515,16.34,-18.86,13.78,44.54,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.121.4,3,TRC,9,11,20,fish,H.cyanoguttatus,121,3,C9,Rerun TERRG-21-36,3996,3698,17.46,-16.85,13.72,45.99,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.128.5,3,TRC,9,11,20,fish,H.cyanoguttatus,128,3,C10,Rerun TERRG-21-36,3717,3358,16.84,-17.72,13.55,44.7,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.117.6,3,TRC,9,11,20,fish,H.cyanoguttatus,117,3,C11,Rerun TERRG-21-36,4293,3973,16.87,-17.12,13.94,46.61,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.97.7,3,TRC,9,11,20,fish,H.cyanoguttatus,97,3,C12,Rerun TERRG-21-36,4109,3763,17.1,-18.21,13.95,45.69,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.86.8,3,TRC,9,11,20,fish,H.cyanoguttatus,86,3,C13,Rerun TERRG-21-36,3760,4202,16.26,-17.79,13.98,45.91,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.49.9,3,TRC,9,11,20,fish,H.cyanoguttatus,49,3,C14,Rerun TERRG-21-36,3971,3591,16.81,-16.63,13.87,45.39,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Herichthys_cyanoguttatus.43.10,3,TRC,9,11,20,fish,H.cyanoguttatus,43,3,C15,Rerun TERRG-21-36,3614,3296,15.74,-19.44,13.62,44.53,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Oreochromis_aureus.79.1,3,TRC,9,11,20,fish,O.aureus,79,3,C16,Rerun TERRG-21-36,4408,3963,13.6,-21.06,13.8,44.81,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.80.1,3,TRC,9,11,20,fish,F.grandis,80,3,C17,Rerun TERRG-21-36,4422,3934,16.25,-16.69,13.99,44.65,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.79.2,3,TRC,9,11,20,fish,F.grandis,79,3,C18,Rerun TERRG-21-36,4143,4648,15.42,-18.95,13.64,45.08,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.73.3,3,TRC,9,11,20,fish,F.grandis,73,3,C19,Rerun TERRG-21-36,3544,3295,14.7,-19.69,13.54,45.28,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.67.4,3,TRC,9,11,20,fish,F.grandis,67,3,C20,Rerun TERRG-21-36,4280,3915,15.95,-19.3,13.41,44.09,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.61.5,3,TRC,9,11,20,fish,F.grandis,61,3,D1,Rerun TERRG-21-36,3798,3512,14.81,-19.57,13.52,44.86,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.61.6,3,TRC,9,11,20,fish,F.grandis,61,3,D2,Rerun TERRG-21-36,3739,3422,14.81,-20.08,13.62,45.26,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.65.7,3,TRC,9,11,20,fish,F.grandis,65,3,D3,Rerun TERRG-21-36,3752,3482,15.14,-19.15,13.22,44,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.58.8,3,TRC,9,11,20,fish,F.grandis,58,3,D4,Rerun TERRG-21-36,4386,4020,13.92,-19.97,13.19,44.47,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.5.9,3,TRC,9,11,20,fish,F.grandis,55,3,D5,Rerun TERRG-21-36,3424,3167,14.37,-20.35,13.29,43.99,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Fundulus_grandis.59.10,3,TRC,9,11,20,fish,F.grandis,59,3,D6,Rerun TERRG-21-36,4277,3847,14.83,-19.59,13.21,43.15,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Astyanax_mexicanus.75.1,3,TRC,9,11,20,fish,A.mexicanus,75,3,D7,Rerun TERRG-21-36,3972,4664,16.07,-19.89,12.96,44.57,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Astyanax_mexicanus.65.2,3,TRC,9,11,20,fish,A.mexicanus,65,3,D8,Rerun TERRG-21-36,3908,3843,14.73,-19.79,13.13,46.41,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Astyanax_mexicanus.56.3,3,TRC,9,11,20,fish,A.mexicanus,56,3,D9,Rerun TERRG-21-36,3662,3620,14.1,-18.77,12.98,46.23,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.63.1,3,TRC,9,11,20,fish,P.latipinna,63,3,D10,Rerun TERRG-21-36,3637,3266,15.03,-20.18,13.51,43.94,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.73.2,3,TRC,9,11,20,fish,P.latipinna,73,3,D11,Rerun TERRG-21-36,4381,3918,14.98,-23.65,13.62,43.39,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.54.3,3,TRC,9,11,20,fish,P.latipinna,54,3,D12,Rerun TERRG-21-36,3615,3297,13.28,-21.99,13.56,44.49,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.55.4,3,TRC,9,11,20,fish,P.latipinna,55,3,D13,Rerun TERRG-21-36,4487,3988,16.7,-17.69,13.81,44.63,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.46.5,3,TRC,9,11,20,fish,P.latipinna,46,3,D14,Rerun TERRG-21-36,4043,3667,14.91,-17.11,13.61,44.2,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.40.6,3,TRC,9,11,20,fish,P.latipinna,40,3,D15,Rerun TERRG-21-36,4280,3940,14.91,-17.71,13.84,45.69,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.43.7,3,TRC,9,11,20,fish,P.latipinna,43,3,D16,Rerun TERRG-21-36,3947,3564,15.51,-19.81,13.81,44.55,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_latipinna.35.8,3,TRC,9,11,20,fish,P.latipinna,35,3,D17,Rerun TERRG-21-36,4253,3886,12.6,-21.24,13.45,44.22,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.55.1,3,TRC,9,11,20,fish,P.formosa,55,3,D18,Rerun TERRG-21-36,4136,4655,13.25,-21.28,13.93,45.69,TERRG-21-36,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.54.2,3,TRC,9,11,20,fish,P.formosa,54,3,D19,NA,3940,3245,14.42,-20.64,13.44,43.06,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.44.3,3,TRC,9,11,20,fish,P.formosa,44,3,D20,NA,4556,4492,14.62,-15.37,14.68,44.78,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.50.4,3,TRC,9,11,20,fish,P.formosa,50,3,E1,NA,3932,3929,12.91,-21.32,13.26,43.41,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.38.5,3,TRC,9,11,20,fish,P.formosa,38,3,E2,NA,3406,2640,12.61,-21.77,14.11,44.55,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.38.6,3,TRC,9,11,20,fish,P.formosa,38,3,E3,NA,3622,2997,15.12,-17.43,12.99,46.45,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.36.7,3,TRC,9,11,20,fish,P.formosa,36,3,E4,NA,4456,3359,15.39,-17.72,13.49,44.38,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Poecilia_formosa.37.8,3,TRC,9,11,20,fish,P.formosa,37,3,E5,NA,3877,2963,14.87,-17.89,14.11,46.91,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.48.1,3,TRC,9,11,20,fish,C.variegatus,48,3,E6,NA,4039,3953,16.54,-18.03,13.14,45.02,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.49.2,3,TRC,9,11,20,fish,C.variegatus,49,3,E7,NA,3543,3300,14.38,-18.65,14.06,45.53,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.54.3,3,TRC,9,11,20,fish,C.variegatus,54,3,E8,NA,3971,2975,17.2,-17.5,13.86,45.69,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.48.4,3,TRC,9,11,20,fish,C.variegatus,48,3,E9,NA,3728,2895,17.39,-18.8,13.9,47.17,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.50.5,3,TRC,9,11,20,fish,C.variegatus,50,3,E10,NA,3937,2874,17.37,-17.85,13.85,45.59,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.53.6,3,TRC,9,11,20,fish,C.variegatus,53,3,E11,NA,3945,2908,16.07,-20.27,13.81,45.44,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.53.7,3,TRC,9,11,20,fish,C.variegatus,53,3,E12,NA,4182,3091,17.66,-17.76,13.91,46.26,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.50.8,3,TRC,9,11,20,fish,C.variegatus,50,3,E13,NA,4663,4304,17.13,-18.35,13.85,45.5,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.45.9,3,TRC,9,11,20,fish,C.variegatus,45,3,E14,NA,3561,2723,13.76,-21.02,13.54,45.14,TERRG-21-24,NA,NA,NA,NA,NA
+TRC.fish.Cyprinodon _variegatus.45.10,3,TRC,9,11,20,fish,C.variegatus,45,3,E15,NA,3551,2640,16.83,-17.35,12.95,42.77,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.126.1,3,SFC,9,11,20,fish,H.cyanoguttatus,126,3,E18,NA,4490,3271,17.29,-22.3,14.04,45.72,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.108.2,3,SFC,9,11,20,fish,H.cyanoguttatus,108,3,E19,NA,4366,3219,17.74,-21.62,14.17,45.79,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.97.3,3,SFC,9,11,20,fish,H.cyanoguttatus,97,3,E20,NA,3818,2845,15.96,-20.79,14.25,46.81,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.78.4,3,SFC,9,11,20,fish,H.cyanoguttatus,78,3,F1,NA,3784,3528,14.93,-21.86,14.18,46.76,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.90.5,3,SFC,9,11,20,fish,H.cyanoguttatus,90,3,F2,NA,4486,3327,16.45,-23.07,14.15,46.15,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.61.6,3,SFC,9,11,20,fish,H.cyanoguttatus,61,3,F3,NA,3664,2788,16.38,-22.83,14.06,46.5,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.58.7,3,SFC,9,11,20,fish,H.cyanoguttatus,58,3,F4,NA,3889,2906,16.03,-24.12,14,46.13,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.58.8,3,SFC,9,11,20,fish,H.cyanoguttatus,58,3,F5,NA,3680,2734,15.81,-22.44,14.13,46.92,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.35.9,3,SFC,9,11,20,fish,H.cyanoguttatus,35,3,F6,NA,3429,2559,15.53,-24.79,12.54,41.52,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Herichthys_cyanoguttatus.29.10,3,SFC,9,11,20,fish,H.cyanoguttatus,29,3,F7,NA,3439,2712,16.34,-24.99,11.24,38.57,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.71.1,3,SFC,9,11,20,fish,A.mexicanus,71,3,F8,NA,4326,3345,16.16,-23.13,13.59,47.95,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.69.2,3,SFC,9,11,20,fish,A.mexicanus,69,3,F9,NA,4173,3077,17.01,-24.74,14.48,47.25,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.67.3,3,SFC,9,11,20,fish,A.mexicanus,67,3,F10,NA,3578,3383,16.59,-22.14,13.61,45.68,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.64.4,3,SFC,9,11,20,fish,A.mexicanus,64,3,F11,NA,3490,3343,15.56,-22.77,12.98,43.44,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.62.5,3,SFC,9,11,20,fish,A.mexicanus,62,3,F12,NA,3799,3508,15.8,-22.5,14,46.12,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.70.6,3,SFC,9,11,20,fish,A.mexicanus,70,3,F13,NA,4423,3264,16.53,-23.19,14.17,46.52,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Astyanax_mexicanus.61.7,3,SFC,9,11,20,fish,A.mexicanus,61,3,F14,NA,4062,3773,16.01,-22.63,14.04,46.64,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Oreochromis_aureus.56.1,3,SFC,9,11,20,fish,O.aureus,56,3,F15,NA,4025,3021,15.53,-25.07,14.18,46.88,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Lepomis_cyanellus.42.1,3,SFC,9,11,20,fish,L.cyanellus,42,3,F16,NA,3970,3705,14.96,-25.05,12.37,40.86,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_formosa.61.1,3,SFC,9,11,20,fish,P.formosa,61,3,F17,NA,3971,3586,16.35,-24.08,14.26,46.31,TERRG-21-24,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_formosa.52.2,3,SFC,9,11,20,fish,P.formosa,52,3,F18,NA,3769,2751,16.28,-23.48,14.02,45.78,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_formosa.40.3,3,SFC,9,11,20,fish,P.formosa,40,3,F19,NA,4005,3039,15.7,-23.2,13.76,45.92,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_formosa.36.4,3,SFC,9,11,20,fish,P.formosa,36,3,F20,NA,0,0,0,0,0,0,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_formosa.31.5,3,SFC,9,11,20,fish,P.formosa,31,3,G1,NA,4371,3203,15.1,-24.36,13.12,43.47,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.41.1,3,SFC,9,11,20,fish,P.latipinna,41,3,G2,NA,3911,2970,15.94,-23.49,13.92,44.96,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.42.2,3,SFC,9,11,20,fish,P.latipinna,42,3,G3,NA,3258,2300,16.36,-23.71,10.62,33.59,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.46.3,3,SFC,9,11,20,fish,P.latipinna,46,3,G4,NA,4451,3316,16.75,-23.19,13.92,45.64,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.35.4,3,SFC,9,11,20,fish,P.latipinna,35,3,G5,NA,3569,2658,15.13,-24.92,14.33,47.59,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.33.5,3,SFC,9,11,20,fish,P.latipinna,33,3,G6,NA,3739,2948,15.56,-25.5,13.41,45.32,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.37.6,3,SFC,9,11,20,fish,P.latipinna,37,3,G7,NA,3643,2696,16.04,-24.46,13.52,43.66,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.34.7,3,SFC,9,11,20,fish,P.latipinna,34,3,G8,NA,3744,2870,16.93,-21.7,13.51,44.58,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.34.8,3,SFC,9,11,20,fish,P.latipinna,34,3,G9,NA,3767,2957,16.78,-23.86,12.67,42.94,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.36.9,3,SFC,9,11,20,fish,P.latipinna,36,3,G10,NA,3628,3488,15.62,-25.78,13.57,45.92,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Poecilia_latipinna.35.10,3,SFC,9,11,20,fish,P.latipinna,35,3,G11,NA,0,0,0,0,0,0,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.37.1,3,SFC,9,11,20,fish,G.affinis,37,3,G12,NA,4640,4271,15.71,-21.96,13.89,45.83,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.40.2,3,SFC,9,11,20,fish,G.affinis,40,3,G13,NA,4065,3024,14.75,-23.05,12.95,42.59,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.35.3,3,SFC,9,11,20,fish,G.affinis,35,3,G14,NA,3008,2315,16.31,-22.29,13.33,44.33,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.30.4,3,SFC,9,11,20,fish,G.affinis,30,3,G15,NA,3493,2792,15.08,-23.16,12.6,44.38,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.29.5,3,SFC,9,11,20,fish,G.affinis,29,3,G16,NA,3372,2748,15.86,-23.53,11.3,39.72,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.33.6,3,SFC,9,11,20,fish,G.affinis,33,3,G17,NA,3543,2771,16.22,-22.79,12.49,42.55,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.36.7,3,SFC,9,11,20,fish,G.affinis,36,3,G18,NA,4271,3327,17.75,-22.14,13.19,44.35,TERRG-21-25,NA,NA,NA,NA,NA
+SFC.fish.Gambusia_affinis.34.8,3,SFC,9,11,20,fish,G.affinis,34,3,G19,NA,3821,3007,14.35,-22.4,13.22,44.91,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Dorosoma_cepedianum.204.1,3,EMC,9,8,20,fish,D.cepedianum,204,3,G20,NA,3984,3926,14.45,-30.04,13.16,46.21,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.127.1,3,EMC,9,8,20,fish,L.megalotis,127,3,H1,NA,3795,2796,16.21,-24.27,14.36,45.47,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.100.2,3,EMC,9,8,20,fish,L.megalotis,100,3,H2,NA,4022,2945,17.09,-25.97,14.13,44.96,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.98.3,3,EMC,9,8,20,fish,L.megalotis,98,3,H3,NA,4223,3117,16.43,-25.77,14.28,45.83,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.63.4,3,EMC,9,8,20,fish,L.megalotis,63,3,H4,NA,4397,3176,16.08,-26.83,13.92,44.98,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.65.5,3,EMC,9,8,20,fish,L.megalotis,65,3,H5,NA,3796,2868,15.87,-26.11,13.87,44.93,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.55.6,3,EMC,9,8,20,fish,L.megalotis,55,3,H6,NA,3649,2717,17.39,-26.39,13.86,44.86,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.53.7,3,EMC,9,8,20,fish,L.megalotis,53,3,H7,NA,4732,3503,16.71,-27.2,13.76,44.33,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.47.8,3,EMC,9,8,20,fish,L.megalotis,47,3,H8,NA,3760,2787,16.4,-26.09,13.92,44.89,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_megalotis.55.9,3,EMC,9,8,20,fish,L.megalotis,55,3,H9,NA,4260,3883,16.52,-26.61,13.83,45.01,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_macrochirus.86.1,3,EMC,9,8,20,fish,L.macrochirus,86,3,H10,NA,0,0,0,0,0,0,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_macrochirus.62.2,3,EMC,9,8,20,fish,L.macrochirus,62,3,H11,NA,4414,3302,16.54,-26.28,13.91,44.7,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_macrochirus.70.3,3,EMC,9,8,20,fish,L.macrochirus,70,3,H12,NA,4783,3461,17.16,-26.55,14.03,44.74,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_cyanellus.116.1,3,EMC,9,8,20,fish,L.cyanellus,116,3,H13,NA,4587,3302,13.14,-24.07,14.17,44.9,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_cyanellus.48.2,3,EMC,9,8,20,fish,L.cyanellus,48,3,H14,NA,4270,3157,16.77,-25.8,13.74,44.61,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_cyanellus.52.3,3,EMC,9,8,20,fish,L.cyanellus,52,3,H15,NA,4401,3267,16.79,-24.41,14.04,45.41,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_cyanellus.55.4,3,EMC,9,8,20,fish,L.cyanellus,55,3,H16,NA,4399,3305,15.89,-24.8,14.01,45.34,TERRG-21-25,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_cyanellus.49.5,3,EMC,9,8,20,fish,L.cyanellus,49,3,H17,NA,3870,3814,16.26,-24.64,13.75,44.52,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Lepomis_gulosus.118.1,3,EMC,9,8,20,fish,L.gulosus,118,3,H18,NA,3760,2863,17.78,-24.72,14.04,44.16,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Micropterus_salmoides.123.1,3,EMC,9,8,20,fish,M.salmoides,123,3,H19,NA,3877,3006,18.2,-24.58,14.06,44.57,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Pimephales_vigilax.54.1,3,EMC,9,8,20,fish,P.vigilax,54,3,H20,NA,3994,3257,16.56,-25.49,13.68,44.31,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Gambusia_affinis.37.1,3,EMC,9,8,20,fish,G.affinis,37,3,I1,NA,3995,3872,16.31,-24.36,14.02,44.6,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Gambusia_affinis.26.2,3,EMC,9,8,20,fish,G.affinis,26,3,I2,NA,4116,3315,16.03,-23.68,12.59,41.62,TERRG-21-26,NA,NA,NA,NA,NA
+EMC.fish.Lepisosteus_oculatus.241.1,3,EMC,9,8,20,fish,L.oculatus,241,3,I3,NA,4608,3534,17.42,-22.84,13.99,44.25,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Ictalurus_punctatus.135.1,3,AR,9,20,20,fish,I.punctatus,135,3,I4,NA,4612,3522,19.84,-29.95,13.58,43.91,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Gobiomorus_dormitor.315.1,3,AR,9,20,21,fish,G.dormitor,315,3,I5,NA,3868,3690,19.39,-26.64,14.59,46.3,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.135.1,3,AR,9,20,22,fish,L.macrochirus,135,3,I6,NA,4443,3436,18.32,-24.79,14.7,46.84,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.98.2,3,AR,9,20,23,fish,L.macrochirus,98,3,I7,"dropped incorrectly, recovered, run in tray 31",4533,3710,19.01,-25.04,14.23,46.04,TERRG-21-31,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.64.3,3,AR,9,20,24,fish,L.macrochirus,64,3,I8,NA,4029,3136,19.65,-26.49,14.43,46.68,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.51.4,3,AR,9,20,25,fish,L.macrochirus,51,3,I9,NA,3701,2761,18.13,-25.53,13.97,46.22,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.47.5,3,AR,9,20,26,fish,L.macrochirus,47,3,I10,NA,4649,3684,19.01,-25.17,14.75,47.95,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.44.6,3,AR,9,20,27,fish,L.macrochirus,44,3,I11,NA,4483,4334,17.26,-26.35,13.66,45.18,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.42.7,3,AR,9,20,28,fish,L.macrochirus,42,3,I12,NA,4865,3763,17.47,-25.66,13.89,46,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.40.8,3,AR,9,20,29,fish,L.macrochirus,40,3,I13,NA,4527,3580,17.66,-25.84,13.88,45.49,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.40.9,3,AR,9,20,30,fish,L.macrochirus,40,3,I14,NA,3792,2971,16.33,-29.18,14.27,46.46,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_macrochirus.36.10,3,AR,9,20,31,fish,L.macrochirus,36,3,I15,NA,4009,3206,19.13,-26.98,14.05,46.86,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Micropterus_salmoides.111.1,3,AR,9,20,32,fish,M.salmoides,111,3,I16,NA,4634,4378,19.92,-24.86,14.06,44.84,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Micropterus_salmoides.99.2,3,AR,9,20,33,fish,M.salmoides,99,3,I17,NA,4381,3236,18.53,-25.33,14.31,45.58,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Herichthys.cyanoguttatus.130.1,3,AR,9,20,34,fish,H.cyanoguttatus,130,3,I18,NA,3875,2865,17.09,-25.1,14.03,44.93,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Herichthys.cyanoguttatus.51.2,3,AR,9,20,35,fish,H.cyanoguttatus,51,3,I19,NA,4132,3121,18.02,-25.41,13.94,45.6,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Herichthys.cyanoguttatus.24.3,3,AR,9,20,36,fish,H.cyanoguttatus,24,3,I20,NA,3742,3181,17.67,-26.2,11.38,42.03,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Herichthys.cyanoguttatus.21.4,3,AR,9,20,37,fish,H.cyanoguttatus,21,3,J1,NA,3343,3386,19.47,-26.62,12.26,41.26,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.90.1,3,AR,9,20,38,fish,L.megalotis,90,3,J2,NA,4724,3654,18.14,-25.76,14.23,45.72,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.80.2,3,AR,9,20,39,fish,L.megalotis,80,3,J3,NA,4822,3647,17.58,-24.72,13.91,45.41,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.66.3,3,AR,9,20,40,fish,L.megalotis,66,3,J4,NA,4273,3279,18.35,-26.69,14.08,45.29,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.57.4,3,AR,9,20,41,fish,L.megalotis,57,3,J5,NA,4672,3738,20.19,-25.73,14.23,45.68,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.55.5,3,AR,9,20,42,fish,L.megalotis,55,3,J6,NA,4354,3429,19.05,-26.52,14.04,45.28,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.55.6,3,AR,9,20,43,fish,L.megalotis,55,3,J7,NA,4840,3739,17.71,-27.24,13.98,45.65,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.50.7,3,AR,9,20,44,fish,L.megalotis,50,3,J8,NA,4968,3914,17.83,-28.58,14.32,46.63,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.50.8,3,AR,9,20,45,fish,L.megalotis,50,3,J9,NA,4535,3464,18.59,-26.53,13.73,44.79,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_megalotis.48.9,3,AR,9,20,46,fish,L.megalotis,48,3,J10,NA,3681,2872,15.32,-30.33,13.8,44.66,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.56.1,3,AR,9,20,47,fish,L.cyanellus,56,3,J11,NA,4024,3959,17.27,-25.84,13.81,45.27,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.48.2,3,AR,9,20,48,fish,L.cyanellus,48,3,J12,NA,3692,3020,19.97,-25.3,13.95,45.9,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.45.3,3,AR,9,20,49,fish,L.cyanellus,45,3,J13,NA,4321,3454,19.39,-24.22,13.87,45.18,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.42.4,3,AR,9,20,50,fish,L.cyanellus,42,3,J14,NA,4004,3194,16.75,-25.52,13.87,45.28,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.35.5,3,AR,9,20,51,fish,L.cyanellus,35,3,J15,NA,1591,1331,17.1,-25.91,14.44,47.62,TERRG-21-26,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.34.6,3,AR,9,20,52,fish,L.cyanellus,34,3,J16,NA,4133,3468,11.56,-26.19,14.25,46.69,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Lepomis_cyanellus.34.7,3,AR,9,20,53,fish,L.cyanellus,34,3,J17,NA,4512,3840,11.3,-24.02,13.85,45.72,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Cyprinella_lutrensis.42.1,3,AR,9,20,54,fish,C.lutrensis,42,3,J18,NA,4240,4782,17.39,-25.15,13.21,46.82,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Cyprinella_lutrensis.39.2,3,AR,9,20,55,fish,C.lutrensis,39,3,J19,NA,4304,3842,17.84,-25.82,13.22,46.61,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Cyprinella_lutrensis.39.3,3,AR,9,20,56,fish,C.lutrensis,39,3,J20,NA,3877,4191,17.28,-26.85,13.32,45.59,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Gambusia_affinis.37.1,3,AR,9,20,57,fish,G.affinis,37,4,A1,NA,3772,3492,18.61,-24.75,13.28,46.04,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Gambusia_affinis.28.2,3,AR,9,20,58,fish,G.affinis,28,4,A2,NA,3667,3073,17.91,-25.12,12.23,41.51,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Gambusia_affinis.31.3,3,AR,9,20,59,fish,G.affinis,31,4,A3,NA,3826,3195,18.42,-23.9,12.67,41.9,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Gambusia_affinis.27.4,3,AR,9,20,60,fish,G.affinis,27,4,A4,NA,3069,2531,17.47,-24.91,12.12,39.2,TERRG-21-27,NA,NA,NA,NA,NA
+AR.fish.Lepomis_gulosus.40.1,3,AR,9,20,62,fish,L.gulosus,40,4,A6,NA,3963,4135,15.02,-28.48,13.84,45.46,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepisosteus_oculatus.X.1,3,PLC,9,15,20,fish,L.oculatus,?,4,A7,NA,4762,3849,16.9,-24.57,13.82,44.82,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Dormitator_maculatus.155.1,3,PLC,9,15,21,fish,D.maculatus,143,4,A8,NA,4091,3402,13.56,-27.02,14.17,45.29,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Dormitator_maculatus.143.2,3,PLC,9,15,22,fish,D.maculatus,155,4,A9,NA,4437,4509,7.41,-21.46,14,45.04,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Anguilla_rostrata.306.1,3,PLC,9,15,23,fish,A.rostrata,306,4,A10,NA,4347,4061,15.68,-25.63,13.14,48.84,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.135.1,3,PLC,9,15,24,fish,L.megalotis,135,4,A11,NA,3950,3089,15.67,-24.32,13.43,41.75,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.115.2,3,PLC,9,15,25,fish,L.megalotis,115,4,A12,NA,3896,3197,15.19,-22.23,14.52,45.77,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.85.3,3,PLC,9,15,26,fish,L.megalotis,85,4,A13,NA,4813,3964,16.07,-20.72,14.09,45.25,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.79.4,3,PLC,9,15,27,fish,L.megalotis,79,4,A14,NA,4330,4380,15.9,-24.01,13.94,44.6,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.67.5,3,PLC,9,15,28,fish,L.megalotis,67,4,A15,NA,4413,4448,16.49,-23.31,13.96,44.94,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.65.6,3,PLC,9,15,29,fish,L.megalotis,65,4,A16,NA,4539,3694,16.14,-24.3,13.91,44.59,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.64.7,3,PLC,9,15,30,fish,L.megalotis,64,4,A17,NA,4014,3262,16.28,-23.02,13.82,44.38,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis67.8,3,PLC,9,15,31,fish,L.megalotis,67,4,A18,NA,4524,3688,15.76,-23.39,13.93,45.03,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.44.9,3,PLC,9,15,32,fish,L.megalotis,44,4,A19,NA,4511,3745,14.61,-21.55,13.77,44.98,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_megalotis.44.10,3,PLC,9,15,33,fish,L.megalotis,44,4,A20,NA,4599,3808,14.37,-22.56,13.85,45.01,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Ictalurus_punctatus.105.1,3,PLC,9,15,34,fish,I.punctatus,105,4,B1,NA,4460,3685,13.02,-23.06,13.63,44.33,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Ameiurus_natalis.75.1,3,PLC,9,15,35,fish,A.natalis,75,4,B2,NA,4411,3528,14.06,-21.29,13.42,43.29,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Ameiurus_natalis.61.2,3,PLC,9,15,36,fish,A.natalis,61,4,B3,NA,3895,3248,14.23,-21.69,13.21,42.46,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_cyanellus.112.1,3,PLC,9,15,37,fish,L.cyanellus,112,4,B4,NA,4627,3803,16.47,-23.71,13.99,44.87,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_cyanellus.88.2,3,PLC,9,15,38,fish,L.cyanellus,88,4,B5,NA,3858,3125,12.65,-17.58,14.01,44.47,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_cyanellus.48.3,3,PLC,9,15,39,fish,L.cyanellus,48,4,B6,NA,4204,4276,14.47,-20.82,13.83,45.12,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_macrochirus.89.1,3,PLC,9,15,40,fish,L.macrochirus,89,4,B7,NA,3910,3921,16.15,-20.6,13.42,43.11,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Lepomis_gulosus.50.1,3,PLC,9,15,41,fish,L.gulosus,50,4,B8,NA,4543,3621,13.72,-24.66,13.28,42.97,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Micropterus_salmoides.147.1,3,PLC,9,15,42,fish,M.salmoides,147,4,B9,NA,3884,3093,16.66,-21.07,14.27,45.14,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Micropterus_salmoides.111.2,3,PLC,9,15,43,fish,M.salmoides,111,4,B10,NA,4480,3508,16.67,-21.03,14.34,45.3,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_venusta.54.1,3,PLC,9,15,44,fish,C.venusta,54,4,B11,NA,4276,5104,12.87,-25.05,12.55,49.28,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_venusta.50.2,3,PLC,9,15,45,fish,C.venusta,50,4,B12,NA,3381,3821,12.43,-24.84,13.11,48.82,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_venusta.43.3,3,PLC,9,15,46,fish,C.venusta,43,4,B13,NA,3025,2355,14.63,-21.66,12.13,38.8,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_venusta.30.4,3,PLC,9,15,47,fish,C.venusta,30,4,B14,NA,3931,3314,13.53,-22.57,13.1,44.41,TERRG-21-27,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_venusta.32.5,3,PLC,9,15,48,fish,C.venusta,32,4,B15,NA,3254,3304,13.66,-21.45,12.42,43.67,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_lutrensis.49.1,3,PLC,9,15,49,fish,C.lutrensis,49,4,B16,NA,3333,2627,14.94,-21.68,12.75,43.79,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Cyprinella_lutrensis.44.2,3,PLC,9,15,50,fish,C.lutrensis,44,4,B17,NA,4228,3282,15.27,-21.59,13.38,45.78,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.53.1,3,PLC,9,15,51,fish,P.latipinna,53,4,B18,NA,4181,3081,12.82,-21.6,14.29,46.02,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.60.2,3,PLC,9,15,52,fish,P.latipinna,60,4,B19,NA,4824,3529,12.51,-19.56,14.16,46.24,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.63.3,3,PLC,9,15,53,fish,P.latipinna,63,4,B20,NA,4745,3499,12.35,-19.93,14.24,45.78,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.49.4,3,PLC,9,15,54,fish,P.latipinna,49,4,C1,NA,4394,3237,11.87,-21.19,14.02,46.82,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.41.5,3,PLC,9,15,55,fish,P.latipinna,41,4,C2,NA,3626,2903,11.54,-22.48,12.94,45.52,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.40.6,3,PLC,9,15,56,fish,P.latipinna,40,4,C3,NA,3618,2732,11.67,-21.95,13.56,45.63,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Poecilia_latipinna.39.7,3,PLC,9,15,57,fish,P.latipinna,39,4,C4,NA,3872,2985,12.56,-20.36,13.76,45.93,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Gambusia_affinis.36.1,3,PLC,9,15,58,fish,G.affinis,36,4,C5,NA,4647,4375,14.42,-21.76,13.82,45.63,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Gambusia_affinis.36.2,3,PLC,9,15,59,fish,G.affinis,36,4,C6,NA,4168,3260,14.96,-22.06,13.76,46.38,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Gambusia_affinis.33.3,3,PLC,9,15,60,fish,G.affinis,33,4,C7,NA,3223,3021,14.35,-20.28,11.93,39.53,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Gambusia_affinis.30.4,3,PLC,9,15,61,fish,G.affinis,30,4,C8,NA,4437,3293,14.18,-22.06,13.12,43.55,TERRG-21-28,NA,NA,NA,NA,NA
+PLC.fish.Gambusia_affinis.26.5,3,PLC,9,15,62,fish,G.affinis,26,4,C9,NA,4108,3948,12.91,-21.99,12.55,42.1,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.200.1,3,GC,9,9,20,fish,L.auritus,200,4,C15,NA,3747,2838,8.66,-26.15,13.95,44.55,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.127.2,3,GC,9,9,21,fish,L.auritus,127,4,C16,NA,3092,2285,10.08,-29.6,9.77,32.13,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.124.3,3,GC,9,9,22,fish,L.auritus,124,4,C17,NA,4461,3357,9.01,-27.71,13.87,45.12,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.80.4,3,GC,9,9,23,fish,L.auritus,80,4,C18,NA,4183,3170,8.79,-31.35,14.1,45.55,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.82.5,3,GC,9,9,24,fish,L.auritus,82,4,C19,NA,4763,3685,9.4,-30.15,13.95,45.58,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.88.6,3,GC,9,9,25,fish,L.auritus,88,4,C20,NA,3790,2825,8.66,-30.34,14.15,45.62,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.82.7,3,GC,9,9,26,fish,L.auritus,82,4,D1,NA,3998,3082,8.97,-30.92,14.1,45.8,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.73.8,3,GC,9,9,27,fish,L.auritus,73,4,D2,NA,4117,3086,10.02,-29.91,13.85,45.35,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.74.9,3,GC,9,9,28,fish,L.auritus,74,4,D3,NA,4853,4524,9.19,-31.41,14.1,45.18,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_auritus.76.10,3,GC,9,9,29,fish,L.auritus,76,4,D4,NA,4239,3315,13.37,-30.86,14.11,45.94,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_miniatus.101.1,3,GC,9,9,30,fish,L.miniatus,101,4,D5,NA,4561,4280,8.84,-26.47,13.37,43.13,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_miniatus.87.2,3,GC,9,9,31,fish,L.miniatus,87,4,D6,NA,4909,3713,9.84,-27.25,14.03,45.29,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_miniatus.81.3,3,GC,9,9,32,fish,L.miniatus,81,4,D7,NA,4693,3632,8.82,-29.9,14.13,45.96,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_miniatus.67.4,3,GC,9,9,33,fish,L.miniatus,67,4,D8,NA,4776,4496,13.78,-29.6,13.9,44.99,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_miniatus.72.5,3,GC,9,9,34,fish,L.miniatus,72,4,D9,NA,3877,3022,9.33,-29.29,13.99,45.38,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Micropterus_salmoides.209.1,3,GC,9,9,35,fish,M.salmoides,209,4,D10,NA,4905,3613,11.83,-30.31,14.4,46.01,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Micropterus_salmoides.90.2,3,GC,9,9,36,fish,M.salmoides,90,4,D11,NA,4154,3155,12.13,-29.46,14.24,45.8,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Micropterus_salmoides.71.3,3,GC,9,9,37,fish,M.salmoides,71,4,D12,NA,3931,3006,11.04,-29.38,14.27,46.11,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_cyanellus.136.1,3,GC,9,9,38,fish,L.cyanellus,136,4,D13,NA,3913,3608,8.92,-24.63,14.25,45.41,TERRG-21-28,NA,NA,NA,NA,NA
+GC.fish.Lepomis_microlophus.133.1,3,GC,9,9,39,fish,L.microlophus,133,4,D14,NA,4071,4265,8.81,-29.73,13.06,41.79,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_microlophus.115.2,3,GC,9,9,40,fish,L.microlophus,115,4,D15,NA,4082,3388,9.37,-31.14,13.76,44.33,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_microlophus.97.3,3,GC,9,9,41,fish,L.microlophus,97,4,D16,NA,3854,3146,10.6,-31.04,13.88,44.53,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_microlophus.82.4,3,GC,9,9,42,fish,L.microlophus,82,4,D17,NA,0,0,0,0,0,0,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_microlophus.76.5,3,GC,9,9,43,fish,L.microlophus,76,4,D18,NA,4850,3917,9.36,-31.1,13.82,44.57,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.98.1,3,GC,9,9,44,fish,L.macrochirus,98,4,D19,NA,4295,3475,9.28,-31.08,13.75,44.33,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.95.2,3,GC,9,9,45,fish,L.macrochirus,95,4,D20,NA,4397,3538,11,-29.52,13.66,44.35,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.88.3,3,GC,9,9,46,fish,L.macrochirus,88,4,E1,NA,4689,4721,9.58,-31.12,13.79,44.93,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.88.4,3,GC,9,9,47,fish,L.macrochirus,88,4,E2,NA,3967,3975,11.33,-32.02,14.12,45.81,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.87.5,3,GC,9,9,48,fish,L.macrochirus,87,4,E3,NA,4618,3694,9.57,-30.41,14.32,46.63,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.77.6,3,GC,9,9,49,fish,L.macrochirus,77,4,E4,NA,5009,4029,10.37,-32.03,13.88,45.09,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.79.7,3,GC,9,9,50,fish,L.macrochirus,79,4,E5,NA,3839,3891,9.42,-31.5,13.92,45.23,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.82.8,3,GC,9,9,51,fish,L.macrochirus,82,4,E6,NA,4697,4713,13.95,-33.68,14.05,45.71,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.77.9,3,GC,9,9,52,fish,L.macrochirus,77,4,E7,NA,4530,4424,9.89,-32.2,14.24,45.99,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_macrochirus.67.10,3,GC,9,9,53,fish,L.macrochirus,67,4,E8,NA,3588,2940,9.8,-28.75,13.57,44.4,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Notropis_texanus.58.1,3,GC,9,9,54,fish,N.texanus,58,4,E9,NA,3751,3008,9.61,-28.24,13.55,45.8,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Notropis_texanus.60.2,3,GC,9,9,55,fish,N.texanus,60,4,E10,NA,4387,3619,9.98,-28.82,13.93,46.26,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_gulosus.109.1,3,GC,9,9,56,fish,L.gulosus,109,4,E11,NA,3755,2909,13.48,-29.83,14.06,45.02,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_gulosus.70.2,3,GC,9,9,57,fish,L.gulosus,70,4,E12,NA,4780,4701,14.68,-30.48,14.01,45.39,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_gulosus.69.3,3,GC,9,9,58,fish,L.gulosus,69,4,E13,NA,0,0,0,0,0,0,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.135.1,3,GC,9,9,59,fish,L.megalotis,135,4,E14,NA,4370,4285,8.64,-26.28,14.27,45.96,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.125.2,3,GC,9,9,60,fish,L.megalotis,125,4,E15,NA,4708,3628,8.49,-26.71,14.13,45.14,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.115.3,3,GC,9,9,61,fish,L.megalotis,115,4,E16,NA,4646,3685,9.31,-28.05,14.04,45.81,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.112.4,3,GC,9,9,62,fish,L.megalotis,112,4,E17,NA,4929,3957,8.69,-27.31,14.11,46.21,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.108.5,3,GC,9,9,63,fish,L.megalotis,108,4,E18,NA,4826,3740,9.3,-28.49,14.24,46.3,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.99.6,3,GC,9,9,64,fish,L.megalotis,99,4,E19,NA,4344,3443,9.71,-29.97,14.21,46.04,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.82.7,3,GC,9,9,65,fish,L.megalotis,82,4,E20,NA,3847,3142,9.65,-30.52,14.28,46.58,TERRG-21-29,NA,NA,NA,NA,NA
+GC.fish.Lepomis_megalotis.82.8,3,GC,9,9,66,fish,L.megalotis,82,4,F1,NA,4353,3365,9.5,-29.7,13.93,45.22,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.151.1,3,PDC,9,9,20,fish,H.cyanoguttatus,151,4,F2,NA,3725,3009,8.8,-26.47,13.59,44.34,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.150.2,3,PDC,9,9,20,fish,H.cyanoguttatus,150,4,F3,NA,4246,3429,7.96,-26.61,13.71,44.77,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.135.3,3,PDC,9,9,20,fish,H.cyanoguttatus,135,4,F4,NA,3843,3039,9.41,-26.82,13.07,42.47,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.96.4,3,PDC,9,9,20,fish,H.cyanoguttatus,96,4,F5,NA,3833,3753,9.1,-25.55,13.96,45.27,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.52.5,3,PDC,9,9,20,fish,H.cyanoguttatus,52,4,F6,NA,4859,3979,9.54,-24.58,13.82,45.71,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.47.6,3,PDC,9,9,20,fish,H.cyanoguttatus,47,4,F7,NA,4300,3463,9.68,-24.21,13.26,44.09,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.47.7,3,PDC,9,9,20,fish,H.cyanoguttatus,47,4,F8,NA,3893,3130,9.54,-24.68,13.73,44.64,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.36.8,3,PDC,9,9,20,fish,H.cyanoguttatus,36,4,F9,NA,3796,3742,9.54,-23.35,13.66,44.72,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Herichthys_cyanoguttatus.29.9,3,PDC,9,9,20,fish,H.cyanoguttatus,29,4,F10,NA,1497,1262,9.57,-27.92,11.57,40.25,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.152.1,3,PDC,9,9,20,fish,L.auritus,152,4,F11,NA,4747,4659,10.63,-24.62,13.93,45.11,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.152.2,3,PDC,9,9,20,fish,L.auritus,152,4,F12,NA,4944,3806,9.97,-26.07,14.17,45.11,TERRG-21-29,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.144.3,3,PDC,9,9,20,fish,L.auritus,144,4,F13,NA,4305,3164,9.73,-27.48,15.07,45.08,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.147.4,3,PDC,9,9,20,fish,L.auritus,147,4,F14,NA,4421,3174,9.73,-27.55,14.33,45.87,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.137.5,3,PDC,9,9,20,fish,L.auritus,137,4,F15,NA,4435,3226,10.51,-24.68,14.62,45.96,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.117.6,3,PDC,9,9,20,fish,L.auritus,117,4,F16,NA,4843,3552,9.43,-28.1,14.08,45.67,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.125.7,3,PDC,9,9,20,fish,L.auritus,125,4,F17,NA,3748,2772,10.14,-26.71,14.15,45.94,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.136.8,3,PDC,9,9,20,fish,L.auritus,136,4,F18,NA,4008,2974,9.66,-27.82,14.01,45.1,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.89.9,3,PDC,9,9,20,fish,L.auritus,89,4,F19,NA,4795,3513,8.6,-26.75,14.09,45.49,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_auritus.70.10,3,PDC,9,9,20,fish,L.auritus,70,4,F20,NA,3830,2786,9.18,-25.66,14.29,45.32,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Micropterus_salmoides.125.1,3,PDC,9,9,20,fish,M.salmoides,125,4,G1,NA,3953,2902,11.86,-25.96,14.23,45.78,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Micropterus_salmoides.111.2,3,PDC,9,9,20,fish,M.salmoides,111,4,G2,NA,4469,3301,11.61,-26.53,13.93,44.69,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Micropterus_salmoides.85.3,3,PDC,9,9,20,fish,M.salmoides,85,4,G3,NA,4612,4220,11.65,-24.36,13.79,44.92,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Micropterus_salmoides.73.4,3,PDC,9,9,20,fish,M.salmoides,73,4,G4,NA,4103,3016,11.75,-25.49,14.12,45.35,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Micropterus_salmoides.66.5,3,PDC,9,9,20,fish,M.salmoides,66,4,G5,NA,4140,3125,11.7,-25.18,13.77,45.34,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_gulosus.165.1,3,PDC,9,9,20,fish,L.gulosus,165,4,G6,NA,4429,3187,10.77,-25.77,14.57,46.74,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_gulosus.86.2,3,PDC,9,9,20,fish,L.gulosus,86,4,G7,NA,4268,3163,10.54,-28.39,14.25,45.94,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.165.1,3,PDC,9,9,20,fish,L.cyanellus,165,4,G8,NA,3869,2810,11.21,-21.9,14.31,45.54,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.125.2,3,PDC,9,9,20,fish,L.cyanellus,125,4,G9,NA,3963,2904,10.78,-22.6,14.13,45.73,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.113.3,3,PDC,9,9,20,fish,L.cyanellus,113,4,G10,NA,4773,3486,10.69,-22.9,14.54,46.3,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.77.4,3,PDC,9,9,20,fish,L.cyanellus,77,4,G11,NA,4270,3112,10.1,-27.5,13.83,44.59,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.68.5,3,PDC,9,9,20,fish,L.cyanellus,68,4,G12,NA,4287,3128,9.62,-26.45,14.12,45.75,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.66.6,3,PDC,9,9,20,fish,L.cyanellus,66,4,G13,NA,3767,2879,9.41,-26.21,13.91,46.18,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.39.7,3,PDC,9,9,20,fish,L.cyanellus,39,4,G14,NA,4124,3066,9.18,-25.52,13.92,45.77,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_cyanellus.38.8,3,PDC,9,9,20,fish,L.cyanellus,38,4,G15,NA,3878,2843,9.89,-25,13.55,44.32,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.139.1,3,PDC,9,9,20,fish,L.macrochirus,139,4,G16,NA,4984,3590,10.71,-23.19,14.43,46.12,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.101.2,3,PDC,9,9,20,fish,L.macrochirus,101,4,G17,NA,4708,3443,10.18,-26.41,14.4,45.83,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.92.3,3,PDC,9,9,20,fish,L.macrochirus,92,4,G18,NA,4082,3001,9.14,-28.03,14.23,45.35,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.92.4,3,PDC,9,9,20,fish,L.macrochirus,92,4,G19,NA,4554,3350,8.9,-26.59,14.22,46.32,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.86.5,3,PDC,9,9,20,fish,L.macrochirus,86,4,G20,NA,3754,2776,9.63,-27.11,13.9,45.39,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.38.6,3,PDC,9,9,20,fish,L.macrochirus,38,4,H1,NA,3996,3028,9.87,-25.67,13.92,46.24,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.36.7,3,PDC,9,9,20,fish,L.macrochirus,36,4,H2,NA,4115,3083,9.58,-25.61,13.3,43.74,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.31.8,3,PDC,9,9,20,fish,L.macrochirus,31,4,H3,NA,3283,2437,9.67,-25.22,12.16,39.17,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_macrochirus.28.9,3,PDC,9,9,20,fish,L.macrochirus,28,4,H4,NA,4244,3298,10.13,-25.73,12.89,43.43,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_microlophus.146.1,3,PDC,9,9,20,fish,L.microlophus,146,4,H5,NA,4155,3076,10.12,-26.63,14.26,45.63,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.135.1,3,PDC,9,9,20,fish,Hybrid sunfish,135,4,H6,NA,3806,2807,10.88,-21.92,14.21,45.74,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.95.2,3,PDC,9,9,20,fish,Hybrid sunfish,95,4,H7,NA,3837,2827,8.91,-27.14,13.94,45.22,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.92.3,3,PDC,9,9,20,fish,Hybrid sunfish,92,4,H8,NA,4236,3126,9.06,-25.95,13.85,44.88,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.60.4,3,PDC,9,9,20,fish,Hybrid sunfish,60,4,H9,NA,4715,3539,9.07,-27.24,14.03,45.53,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.83.5,3,PDC,9,9,20,fish,Hybrid sunfish,83,4,H10,NA,3873,2901,9.18,-26.16,14.22,46.17,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.80.6,3,PDC,9,9,20,fish,Hybrid sunfish,80,4,H11,NA,4523,3379,8.76,-27.32,14.11,45.53,TERRG-21-30,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.90.7,3,PDC,9,9,20,fish,Hybrid sunfish,92,4,H12,NA,3493,2881,8.77,-27.91,14.06,44.91,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.80.8,3,PDC,9,9,20,fish,Hybrid sunfish,80,4,H13,NA,4209,3554,9.09,-27.42,13.85,45.08,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.71.9,3,PDC,9,9,20,fish,Hybrid sunfish,71,4,H14,NA,3504,2969,9.46,-26.82,13.36,43.76,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Lepomis_spp.63.10,3,PDC,9,9,20,fish,Hybrid sunfish,63,4,H15,NA,3854,3156,9.18,-28.07,14.09,45.6,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Fundulus_notatus.72.1,3,PDC,9,9,20,fish,F.notatus,72,4,H16,NA,3525,2965,9.72,-22.47,14.06,45.58,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Fundulus_notatus.53.2,3,PDC,9,9,20,fish,F.notatus,53,4,H17,NA,3554,2983,10.09,-21.69,13.8,44.79,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Fundulus_notatus.49.3,3,PDC,9,9,20,fish,F.notatus,49,4,H18,NA,3387,3548,10.03,-22.66,13.17,43.85,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Fundulus_chrysotus.35.1,3,PDC,9,9,20,fish,F.chrysotus,35,4,H19,NA,3122,2668,9.65,-23.19,12.27,41.36,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Gambusia_affinis.39.1,3,PDC,9,9,20,fish,G.affinis,39,4,H20,NA,3841,3230,10.75,-22.87,12.39,41.11,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Gambusia_affinis.36.2,3,PDC,9,9,20,fish,G.affinis,36,4,I1,NA,3572,3009,10.1,-23.26,11.86,39.03,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Gambusia_affinis.34.3,3,PDC,9,9,20,fish,G.affinis,34,4,I2,NA,4130,3577,10.65,-23.59,13.55,46.02,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Gambusia_affinis.36.4,3,PDC,9,9,20,fish,G.affinis,36,4,I3,NA,3587,3078,10.48,-24.36,12.56,41.96,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Gambusia_affinis.40.5,3,PDC,9,9,20,fish,G.affinis,40,4,I4,NA,4220,3535,10.54,-22.03,13.65,44.6,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Poecilia_latipinna.36.1,3,PDC,9,9,20,fish,P.latipinna,36,4,I5,NA,4375,3798,8.04,-22.77,13.54,45.37,TERRG-21-31,NA,NA,NA,NA,NA
+PDC.fish.Poecilia_latipinna.36.2,3,PDC,9,9,20,fish,P.latipinna,36,4,I6,NA,3790,3089,8.38,-22.63,13.54,44.85,TERRG-21-31,NA,NA,NA,NA,NA
+EMC.invert.Hemiptera_Gerridae.8,3,EMC,9,2,20,invertebrate,Gerridae,NA,1,A1,NA,3330,4158,12.88,-29.81,9.7,47.87,TERRG-21-32,Hemiptera,Gerridae,8,NA,NA
+EMC.invert.Coleoptera_Scirtidae.8,3,EMC,9,2,20,invertebrate,Scirtidae,NA,1,A2,NA,2893,5129,8.08,-29.94,7.19,49.35,TERRG-21-32,Coleoptera,Scirtidae,8,NA,NA
+EMC.invert.Coleoptera_Dytiscidae.1,3,EMC,9,2,20,invertebrate,Dytiscidae,NA,1,A3,NA,4103,4655,6.47,-20.71,10.83,48.26,TERRG-21-32,Coleoptera,Dytiscidae,1,NA,NA
+EMC.invert.Coleoptera_Elmidae,3,EMC,9,2,20,invertebrate,Elmidae,NA,1,A4,NA,3384,4877,3.51,-25.81,9.25,53.28,TERRG-21-32,Coleoptera,Elmidae,1,NA,NA
+EMC.invert.Coleoptera_Staphylinidae.2,3,EMC,9,2,20,invertebrate,Staphylinidae,NA,1,A5,NA,1121,1406,7.93,-30.12,9.66,48.21,TERRG-21-32,Coleoptera,Staphylinidae,2,NA,NA
+EMC.invert.Gastropoda_Physidae.5,3,EMC,9,2,20,invertebrate,Physidae,NA,1,A6,NA,3718,3926,9.96,-28.29,10.34,43.18,TERRG-21-32,Gastropoda,Physidae,5,NA,NA
+EMC.invert.Gastropoda_Planorbidae.2,3,EMC,9,2,20,invertebrate,Planorbidae,NA,1,A7,NA,3292,4153,11.66,-29.88,8.61,41.73,TERRG-21-32,Gastropoda,Planorbidae,2,NA,NA
+WMC.invert.Amphipoda_Hyallelidae.7,3,WMC,9,2,20,invertebrate,Hyallelidae,NA,1,A8,NA,2534,3766,11.49,-26.35,6.72,31.8,TERRG-21-32,Amphipoda,Hyallelidae,7,NA,NA
+WMC.invert.Coleoptera_Scirtidae.4,3,WMC,9,2,20,invertebrate,Scirtidae,NA,1,A9,NA,3544,4148,9.71,-27.7,9.87,45.39,TERRG-21-32,Coleoptera,Scirtidae,4,NA,NA
+WMC.invert.Diptera_Culicidae.2,3,WMC,9,2,20,invertebrate,Culicidae,NA,1,A10,NA,3457,3386,7.72,-27.12,9.97,38.23,TERRG-21-32,Diptera,Culicidae,2,NA,NA
+WMC.invert.Diptera_Chironomidae.7.chironominae,3,WMC,9,2,20,invertebrate,Chironomidae,NA,1,A11,*s.f. chironominae,2890,3145,7.61,-30.66,10.96,46.49,TERRG-21-32,Diptera,Chironomidae,7,NA,NA
+WMC.invert.Gastropoda_Physidae.3,3,WMC,9,2,20,invertebrate,Physidae,NA,1,A12,NA,2869,3315,8.04,-28.01,8.28,37.24,TERRG-21-32,Gastropoda,Physidae,3,NA,NA
+PDC.invert.Gastropoda_Thiaridae.16,3,PDC,9,3,20,invertebrate,Thiaridae,NA,1,A13,NA,1278,2604,9.62,-20.49,3.42,26.92,TERRG-21-32,Gastropoda,Thiaridae,16,NA,NA
+PDC.invert.Coleoptera_Elmidae.10,3,PDC,9,3,20,invertebrate,Elmidae,NA,1,A14,NA,3654,5937,3.37,-31.51,10.06,52.57,TERRG-21-32,Coleoptera,Elmidae,10,NA,NA
+PDC.invert.Odonata_Coenagrionidae.5,3,PDC,9,3,20,invertebrate,Coenagrionidae,NA,1,A15,NA,4364,4482,7,-25.86,11.09,45.68,TERRG-21-32,Odonata,Coenagrionidae,5,NA,NA
+PDC.invert.Odonata_Libellulidae.1,3,PDC,9,3,20,invertebrate,Libellulidae,NA,1,A16,NA,3194,2945,6.61,-26.9,10.15,38.89,TERRG-21-32,Odonata,Libellulidae,1,NA,NA
+PDC.invert.Ephemeroptera_Caenidae.4,3,PDC,9,3,20,invertebrate,Caenidae,NA,1,A17,NA,3742,4330,4.68,-27.12,10.22,47.07,TERRG-21-32,Ephemeroptera,Caenidae,4,NA,NA
+PDC.invert.Ephemeroptera_Heptageniidae.1,3,PDC,9,3,20,invertebrate,Heptageniidae,NA,1,A18,NA,1737,1811,4.93,-26.21,9.64,39.51,TERRG-21-32,Ephemeroptera,Heptageniidae,1,NA,NA
+PLC.invert.Odonata_Coenagrionidae.7,3,PLC,9,3,20,invertebrate,Coenagrionidae,NA,1,A19,NA,4288,4180,10.31,-23.81,11.47,44.11,TERRG-21-32,Odonata,Coenagrionidae,7,NA,NA
+PLC.invert.Diptera_Chironomidae.8.chironominae,3,PLC,9,3,20,invertebrate,Chironomidae,NA,1,A20,*s.f. chironominae,763,917,8.16,-27,6.81,32.27,TERRG-21-32,Diptera,Chironomidae,8,NA,NA
+PLC.invert.Amphipoda_Hyallelidae.9,3,PLC,9,3,20,invertebrate,Hyallelidae,NA,1,B1,NA,2076,3086,7.6,-23.08,5.84,33.65,TERRG-21-32,Amphipoda,Hyallelidae,9,NA,NA
+PLC.invert.Coleoptera_Elmidae.3,3,PLC,9,3,20,invertebrate,Elmidae,NA,1,B2,NA,4135,4400,10.42,-22.05,11.07,46.65,TERRG-21-32,Coleoptera,Elmidae,3,NA,NA
+PLC.invert.Coleoptera_Halipidae.1,3,PLC,9,3,20,invertebrate,Haliplidae,NA,1,B3,NA,3847,4888,12.21,-21.39,10.24,51.73,TERRG-21-32,Coleoptera,Haliplidae,1,NA,NA
+PLC.invert.Coleoptera_Dytiscidae.1,3,PLC,9,3,20,invertebrate,Dytiscidae,NA,1,B4,NA,4055,4939,10.49,-16.08,10.52,49.88,TERRG-21-32,Coleoptera,Dytiscidae,1,NA,NA
+GC.invert.Amphipoda_Hyallelidae.13,3,GC,9,4,20,invertebrate,Hyallelidae,NA,1,B5,NA,1425,2802,6.19,-32.35,4.26,32.43,TERRG-21-32,Amphipoda,Hyallelidae,13,NA,NA
+GC.invert.Gastropda_Physidae.13,3,GC,9,4,20,invertebrate,Physidae,NA,1,B6,NA,531,1474,11.21,-21.48,1.55,17.01,TERRG-21-32,Gastropoda,Physidae,13,NA,NA
+GC.invert.Ephemeroptera_Caenidae.3,3,GC,9,4,20,invertebrate,Caenidae,NA,1,B7,NA,1094,1719,5.13,-31.01,8.3,51.3,TERRG-21-32,Ephemeroptera,Caenidae,3,NA,NA
+GC.invert.Coleoptera_Scirtidae.1,3,GC,9,4,20,invertebrate,Scirtidae,NA,1,B8,NA,NA,NA,NA,NA,NA,NA,NA,Coleoptera,Scirtidae,1,NA,NA
+GC.invert.Coleoptera_Gyrinidae.5,3,GC,9,4,20,invertebrate,Gyrinidae,NA,1,B9,NA,3899,4761,7.71,-36.31,10.41,50.81,TERRG-21-32,Coleoptera,Gyrinidae,5,NA,NA
+GC.invert.Odonata_Coenagrionidae.1,3,GC,9,4,20,invertebrate,Coenagrionidae,NA,1,B10,NA,4756,4334,9.22,-31.17,12.01,44.53,TERRG-21-32,Odonata,Coenagrionidae,1,NA,NA
+GC.invert.Odonata_Libellulidae_6,3,GC,9,4,20,invertebrate,Libellulidae,NA,1,B11,NA,4158,4574,7.18,-30.57,10.09,44.32,TERRG-21-32,Odonata,Libellulidae,6,NA,NA
+GC.invert.Diptera_Chironomidae.14.chironominae,3,GC,9,4,20,invertebrate,Chironomidae,NA,1,B12,*s.f. chironominae,3472,4037,9.1,-29.03,9.99,46.23,TERRG-21-32,Diptera,Chironomidae,14,NA,NA
+MR.invert.Diptera_Chironomidae.5.chironominae,3,MR,9,7,20,invertebrate,Chironomidae,NA,1,B13,*s.f. chironominae,1620,1786,7.02,-32.03,9.7,42.29,TERRG-21-32,Diptera,Chironomidae,5,NA,NA
+MR.invert.Diptera_Chironomidae.1.tanypodinae,3,MR,9,7,20,invertebrate,Chironomidae,NA,1,B14,*s.f. tanypodinae,4466,4253,7.96,-28.43,11.66,43.79,TERRG-21-32,Diptera,Chironomidae,1,NA,NA
+MR.invert.Coleoptera_Elmidae.5,3,MR,9,7,20,invertebrate,Elmidae,NA,1,B15,NA,3732,5213,5.81,-29.19,9.33,51.3,TERRG-21-32,Coleoptera,Elmidae,5,NA,NA
+MR.invert.Amphipoda_Hyallelidae.14,3,MR,9,7,20,invertebrate,Hyallelidae,NA,1,B16,NA,1879,3176,6.29,-31.65,5.46,35.96,TERRG-21-32,Amphipoda,Hyallelidae,14,NA,NA
+MR.invert.Odonata_Coenagrionidae.4,3,MR,9,7,20,invertebrate,Coenagrionidae,NA,1,B17,NA,4085,4425,8.96,-28.73,10.56,44.99,TERRG-21-32,Odonata,Coenagrionidae,4,NA,NA
+MR.invert.Odonata_Aeshnidae.2,3,MR,9,7,20,invertebrate,Aeshnidae,NA,1,B18,NA,4171,3840,8.81,-29,11.36,42.89,TERRG-21-32,Odonata,Aeshnidae,2,NA,NA
+MR.invert.Ephemeroptera_Caenidae.2,3,MR,9,7,20,invertebrate,Caenidae,NA,1,B19,NA,3745,4949,7.26,-34.16,9.98,51.5,TERRG-21-32,Ephemeroptera,Caenidae,2,NA,NA
+MR.invert.Ephemeroptera_baetidae.8,3,MR,9,7,20,invertebrate,Baetidae,NA,1,B20,NA,3041,4839,5.88,-31.4,7.85,46.74,TERRG-21-33,Ephemeroptera,Baetidae,8,NA,NA
+AR.invert.Odonata_Coenagrionidae.2,3,AR,9,7,20,invertebrate,Coenagrionidae,NA,1,C1,NA,4093,4185,15.65,-27.65,10.92,41.67,TERRG-21-33,Odonata,Coenagrionidae,2,NA,NA
+AR.invert.Odonata_Aeshnidae.2,3,AR,9,7,20,invertebrate,Aeshnidae,NA,1,C2,NA,4486,4486,15.12,-26.22,11.16,42.45,TERRG-21-33,Odonata,Aeshnidae,2,NA,NA
+AR.invert.Ephemeroptera_Caenidae.2,3,AR,9,7,20,invertebrate,Caenidae,NA,1,C3,NA,559,869,14.19,-29.88,5.51,34.72,TERRG-21-33,Ephemeroptera,Caenidae,2,NA,NA
+AR.invert.Ephemeroptera_Heptageniidae.5,3,AR,9,7,20,invertebrate,Heptageniidae,NA,1,C4,NA,2087,2695,14.75,-29.76,9.02,46.8,TERRG-21-33,Ephemeroptera,Heptageniidae,5,NA,NA
+AR.invert.Coleoptera_Scirtidae.1,3,AR,9,7,20,invertebrate,Scirtidae,NA,1,C5,NA,NA,NA,NA,NA,NA,NA,NA,Coleoptera,Scirtidae,1,NA,NA
+AR.invert.Coleoptera_Elmidae.11,3,AR,9,7,20,invertebrate,Elmidae,NA,1,C6,NA,4141,4816,13.35,-30.42,10.13,46.93,TERRG-21-33,Coleoptera,Elmidae,11,NA,NA
+AR.invert.Coleoptera_Gerridae.11,3,AR,9,7,20,invertebrate,Gerridae,NA,1,C7,NA,4854,4398,16.11,-27.14,12.55,46.9,TERRG-21-33,Coleoptera,Gerridae,11,NA,NA
+AR.invert.Diptera_Chironomidae.1.tanypodinae,3,AR,9,7,20,invertebrate,Chironomidae,NA,1,C8,*s.f. tanypodinae,NA,NA,NA,NA,NA,NA,NA,Diptera,Chironomidae,1,NA,NA
+AR.invert.Diptera_Chironomidae.4.chironominae,3,AR,9,7,20,invertebrate,Chironomidae,NA,1,C9,*s.f. chironominae,741,768,15.17,-26.91,10.81,46.79,TERRG-21-33,Diptera,Chironomidae,4,NA,NA
+TRC.invert.Coleoptera_Elmidae.2,3,TRC,9,8,20,invertebrate,Elmidae,NA,1,C10,NA,1314,1369,15.01,-29.32,10.47,45.88,TERRG-21-33,Coleoptera,Elmidae,2,NA,NA
+TRC.invert.Coleoptera_Scirtidae.2,3,TRC,9,8,20,invertebrate,Scirtidae,NA,1,C11,NA,4047,4567,12.26,-18.81,10.03,46.55,TERRG-21-33,Coleoptera,Scirtidae,2,NA,NA
+TRC.invert.Diptera_Chironimidae.11.chironominae,3,TRC,9,8,20,invertebrate,Chironomidae,NA,1,C12,*s.f. chironominae,0,0,0,0,0,0,TERRG-21-33,Diptera,Chironomidae,11,NA,NA
+TRC.invert.Amphipoda_Hyallelidae.11,3,TRC,9,8,20,invertebrate,Hyallelidae,NA,1,C13,NA,2579,3176,11.86,-20.71,7.49,38.65,TERRG-21-33,Amphipoda,Hyallelidae,11,NA,NA
+TRC.invert.Gastropoda_Thiaridae.12,3,TRC,9,8,20,invertebrate,Thiaridae,NA,1,C14,NA,4327,4420,15.22,-16.12,10.63,44.65,TERRG-21-33,Gastropoda,Thiaridae,12,NA,NA
+SFC.invert.Diptera_Chironomidae.6.chironominae,3,SFC,9,8,20,invertebrate,Chironomidae,NA,1,C15,*s.f. chironominae,3188,3809,11.47,-23.13,8.7,42.59,TERRG-21-33,Diptera,Chironomidae,6,NA,NA
+SFC.invert.Diptera_Chironomidae.1.tanypodinae,3,SFC,9,8,20,invertebrate,Chironomidae,NA,1,C16,*s.f. tanypodinae,NA,NA,NA,NA,NA,NA,NA,Diptera,Chironomidae,1,NA,NA
+SFC.invert.Odonata_Coenagrionidae.8,3,SFC,9,8,20,invertebrate,Coenagrionidae,NA,1,C17,NA,3969,3633,13.1,-24.65,10.53,39.77,TERRG-21-33,Odonata,Coenagrionidae,8,NA,NA
+SFC.invert.Gastropoda_Thiaridae.5,3,SFC,9,8,20,invertebrate,Thiaridae,NA,1,C18,NA,3054,3579,11.78,-26.43,8.76,42.79,TERRG-21-33,Gastropoda,Thiaridae,5,NA,NA
+SFC.invert.Coleoptera_Scirtidae.6,3,SFC,9,8,20,invertebrate,Scirtidae,NA,1,C19,NA,3301,3414,10.75,-25.63,8.44,36.49,TERRG-21-33,Coleoptera,Scirtidae,6,NA,NA
+PLC.invert.Callinectes_sapides.68.1,3,PLC,9,15,20,invertebrate,Cambaridae,NA,4,C10,68,2617,2063,11.4,-22.67,9.55,33.69,TERRG-21-28,C. sapides,Cambaridae,NA,NA,NA
+PLC.invert.Callinectes_sapides.68.2,3,PLC,9,15,20,invertebrate,Cambaridae,NA,4,C11,68,3125,3043,11.84,-22.81,11.4,39.14,TERRG-21-28,C. sapides,Cambaridae,NA,NA,NA
+PLC.invert.Callinectes_sapides.59.3,3,PLC,9,15,20,invertebrate,Cambaridae,NA,4,C12,59,3419,3196,11.21,-22.34,12.07,39.97,TERRG-21-28,C. sapides,Cambaridae,NA,NA,NA
+PLC.invert.Callinectes_sapides.59.4,3,PLC,9,15,20,invertebrate,Cambaridae,NA,4,C13,59,3360,3287,11.25,-21.75,11.06,37.83,TERRG-21-28,C. sapides,Cambaridae,NA,NA,NA
+PLC.invert.Faxonius_spp.40.1,3,PLC,9,15,20,invertebrate,Cambaridae,NA,4,C14,40,4161,3168,9.8,-25.29,12.68,42.08,TERRG-21-28,Faxonius spp.,Cambaridae,NA,NA,NA
+AR.invert.Faxonius_spp.77.1,3,AR,9,20,20,invertebrate,Cambaridae,NA,4,A5,77,3801,3136,14.15,-25.9,13.63,42.57,TERRG-21-27,Faxonius spp.,Cambaridae,NA,NA,NA
+TRC.invert.Faxonius_spp.70.1,3,TRC,9,11,20,invertebrate,Cambaridae,NA,3,E16,70,3597,2662,12.23,-23.02,13.59,44.22,TERRG-21-24,Faxonius spp.,Cambaridae,NA,NA,NA
+TRC.invert.Faxonius_spp.53.2,3,TRC,9,11,20,invertebrate,Cambaridae,NA,3,E17,53,4068,2961,12.8,-19.62,13.51,44.12,TERRG-21-24,Faxonius spp.,Cambaridae,NA,NA,NA
+PLC.TV.Poeceae,3,PLC,9,3,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,5922,13549,4.87,-30.97,2.59,35.26,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B6
+PDC.TV.Kummeroia_striata,3,PDC,9,3,20,Terrestrial Source,clover,NA,NA,NA,Kummerowia striata,3988,10428,4.96,-27.8,2.45,38.15,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B7
+PLC.TV.Uniola_paniculata,3,PLC,9,3,20,Terrestrial Source,grass,NA,NA,NA,Uniola paniculata,3730,17348,5.56,-20.71,1.71,37.77,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B8
+GC.TV.Fraxinus_berlandieriana.stems,3,GC,9,4,20,Terrestrial Source,leaves,NA,NA,NA,Fraxinus berlandieriana,3152,11350,2.19,-32.89,2.01,43.27,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B9
+GC.TV.Uniola_paniculata,3,GC,9,4,20,Terrestrial Source,grass,NA,NA,NA,Uniola paniculata,4260,19062,1.4,-31.89,1.88,40,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B10
+PDC.TV.Salix_spp,3,PDC,9,3,20,Terrestrial Source,leaves,NA,NA,NA,Salix,3676,14974,3.81,-29.54,2.33,45.4,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B11
+PLC.TV.Juglans_spp,3,PLC,9,3,20,Terrestrial Source,leaves,NA,NA,NA,Juglans,3171,11507,4.68,-31.98,1.92,41.85,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B12
+GC.TV.Fraxinus_berlandieriana.leaves,3,GC,9,4,20,Terrestrial Source,leaves,NA,NA,NA,Fraxinus berlandieriana,3206,11352,0.87,-33,2.02,43.15,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B13
+WMC.TV.Quercus_spp.OR.Laurus_spp,3,WMC,9,2,20,Terrestrial Source,leaves,NA,NA,NA,"Quercus, Laurus",3537,10968,6.08,-31.8,2.23,41.35,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B14
+WMC.TV.Uniola_paniculata,3,WMC,9,2,20,Terrestrial Source,grass,NA,NA,NA,Uniola paniculata,3694,17511,8.17,-29.37,1.72,38.28,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B15
+PDC.TV.Poeceae,3,PDC,9,3,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,2028,4512,5.72,-27.05,0.92,12.66,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B16
+SFC.TV.Ricinus_spp,3,SFC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Ricinus,4324,10767,13.35,-31.68,2.69,40.87,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B17
+SFC.TV.Fraxinus_berlandieriana,3,SFC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Fraxinus berlandieriana,4153,12431,15.49,-31.13,2.51,45.46,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B18
+AR.TV.Uniola_paniculata,3,AR,9,7,20,Terrestrial Source,grass,NA,NA,NA,Uniola paniculata,3759,14535,8.31,-30.33,1.71,39.65,TERRG-21-34,Terrestrial Vegetation,NA,NA,5,B19
+AR.TV.Triadica_sebifera,3,AR,9,7,20,Terrestrial Source,leaves,NA,NA,NA,Triadica sebifera,3715,10537,7.98,-30.36,2.48551805,42.48908113,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,B20
+AR.TV.Salix_spp,3,AR,9,7,20,Terrestrial Source,leaves,NA,NA,NA,Salix,3213,11816,4.83,-31.2,2.110276984,46.65326198,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C1
+TRC.TV.Prosopis_spp,3,TRC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Prosopis,7063,10957,4.72,-32.07,4.521033313,43.50113832,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C2
+SFC.TV.Cephalanthus_occidentalis,3,SFC,9,8,20,Terrestrial Source,shrub,NA,NA,NA,Cephalanthus occidentalis,3356,14855,12.44,-30.62,2.177944138,57.85143341,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C3
+EMC.TV.Salix_spp,3,EMC,9,2,20,Terrestrial Source,leaves,NA,NA,NA,Salix,3420,11456,13.53,-31.04,2.160911338,43.84509472,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C4
+EMC.TV.Poeceae,3,EMC,9,2,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,3285,13388,9.58,-23.48,1.53716335,38.17300693,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C5
+AR.TV.Poeceae,3,AR,9,7,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,3719,14059,16.26,-28.39,1.732260651,40.34166676,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C6
+TRC.TV.Poeceae,3,TRC,9,8,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,4809,13892,9.19,-15.31,2.184078496,39.46378072,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C7
+AR.TV.Salix_spp,3,AR,9,7,20,Terrestrial Source,leaves,NA,NA,NA,Salix,4359,12156,12.13,-31.81,2.792940011,47.78431346,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C8
+SFC.TV.Poeceae,3,SFC,9,8,20,Terrestrial Source,grass,NA,NA,NA,Poeceae,6719,18710,17.9,-14.89,3.056503878,54.05325859,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C9
+MR.TV.Juglans_spp,3,MR,9,7,20,Terrestrial Source,leaves,NA,NA,NA,Juglans,2738,11747,3.24,-30.87,1.750254278,44.77390638,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C10
+TRC.TV.Juglans_spp,3,TRC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Juglans,3121,8007,7.1,-30.81,2.03249795,31.03996976,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C11
+TRC.TV.Fraxinus_spp,3,TRC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Fraxinus,4358,14819,7.1,-31.45,2.705150295,56.25116089,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C12
+SFC.TV.Ficus_spp,3,SFC,9,8,20,Terrestrial Source,leaves,NA,NA,NA,Ficus,3364,9506,14.6,-30.99,2.194165419,36.97277146,TERRG-21-35,Terrestrial Vegetation,NA,NA,5,C13
